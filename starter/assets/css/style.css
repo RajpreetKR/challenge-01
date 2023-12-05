@@ -52,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* tried to combine some things here, but it kept breaking the design */
 .hero {
     height: 800px;
     width: 100%;
@@ -84,10 +85,11 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Trebuchet MS'; /* removed the other fonts as when experiemnting with inspect element, no changes happened when Trebuchet MS was not touched */
     background-color: #2589bd;
 }
 
+/* tried to combine some things here, but it kept breaking the design */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;

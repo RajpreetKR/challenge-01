@@ -10,8 +10,9 @@ https://rajpreetkr.github.io/challenge-01/starter/
 
 ## Credits
 
-Used the following to help under semantic tags:
-https://www.w3schools.com/html/html5_semantic_elements.asp
+Used the following to help understand semantic tags and the challenge:
+- https://www.w3schools.com/html/html5_semantic_elements.asp
+- Tutoring
 
 ## License
 

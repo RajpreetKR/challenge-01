@@ -15,4 +15,4 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
 
 ## License
 
-MIT License
+Distributed under the MIT License

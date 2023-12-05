@@ -168,8 +168,8 @@ img {
     max-height: 200px;
 }
 
-/* same as the above, removed all the individual h2 stylings and put it into one */
-h2 {
+/* same as the above, removed all the individual h2 stylings and changed to h4 */
+h4 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -181,7 +181,8 @@ footer {
     font-family: 'Trebuchet MS'; /* removed the other fonts as when experiemnting with inspect element, no changes happened when Trebuchet MS was not touched */
     text-align: center;
 }
-
-footer h2 {
+ 
+/* changed from h2 to h4*/
+footer h4 {
     font-size: 20px;
 }
